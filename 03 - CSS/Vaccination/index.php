@@ -10,7 +10,7 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <!-- Search Engine -->
-  <meta name="author" content="Ricardo Villegas Rosales">
+  <meta name="author" content="Ricardo Villegas">
   <!-- Icono -->
   <link rel="shortcut icon" href="/Vaccination/public/images/icons/logo-00.ico">
   <!-- Nombre de la página -->
