@@ -10,26 +10,13 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <!-- Search Engine -->
-  <meta name="author" content="Luis Fernando Sobrado Sánchez - Ricardo Villegas Rosales | Mirador del Lago Teque">
-  <meta name="description" content="El Mirador Teques es una casa vacacional, ubicada en el estado de Morelos a una y media hora de la CDMX, nuestros espacios son ideales para eventos sociales, ofrecemos espacios adecuados y seguros para sus invitados.">
+  <meta name="author" content="Ricardo Villegas Rosales">
   <!-- Icono -->
   <link rel="shortcut icon" href="/Vaccination/public/images/icons/logo-00.ico">
   <!-- Nombre de la página -->
   <title>Vaccination</title>
   <!-- Linea para que el navegador responda al ancho de la pantalla -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
-  <!-- Schema.org for Google-->
-  <meta itemprop="name" content="Mirador del Lago Tequesquitengo">
-  <meta itemprop="description" content="El Mirador Teques es una casa vacacional, ubicada en el estado de Morelos a una y media hora de la CDMX, nuestros espacios son ideales para eventos sociales, ofrecemos espacios adecuados y seguros para sus invitados.">
-  <meta itemprop="image" content="/public/og/">
-  <!-- Open Graph general (Facebook, Pinterest & Google+) -->
-  <meta name="og:title" content="Mirador del Lago Tequesquitengo">
-  <meta name="og:description" content="El Mirador Teques es una casa vacacional, ubicada en el estado de Morelos a una y media hora de la CDMX, nuestros espacios son ideales para eventos sociales, ofrecemos espacios adecuados y seguros para sus invitados.">
-  <meta name="og:image" content="/public/og/">
-  <meta name="og:url" content="https://www.miradorteques.com/">
-  <meta name="og:site_name" content="Mirador del Lago Tequesquitengo">
-  <meta name="og:locale" content="es_MX">
-  <meta name="og:type" content="website">
   <!-- Font Awesome 5.14.0 -->
   <link rel="stylesheet" href="/Vaccination/public/css/all.css">
   <!-- Material Kit 2.0.7 -->
